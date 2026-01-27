@@ -55,6 +55,7 @@ Mission: Build real-world products, write quality code, and keep leveling up as 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=prakash1011&icon=5&color=6" />
+  <img src="https://komarev.com/ghpvc/?username=prakash1011&style=for-the-badge&color=blue" />
 </p>
+
 
