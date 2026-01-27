@@ -2,6 +2,7 @@
 
 **Angular Developer** crafting clean, scalable, and high-performance web applications  
 Backend-ready with **NestJS**, building secure and well-structured APIs  
+Hands-on experience with **React**, having built most of my projects using it  
 Full-stack experience with the **MERN stack** (best of both worlds)  
 I enjoy turning complex problems into elegant, maintainable solutions  
 Mission: Build real-world products, write quality code, and keep leveling up as an engineer
@@ -18,6 +19,7 @@ Mission: Build real-world products, write quality code, and keep leveling up as 
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -39,7 +41,7 @@ Mission: Build real-world products, write quality code, and keep leveling up as 
 
 ## GitHub Activity
 ![](https://github-readme-stats.vercel.app/api?username=prakash1011&theme=tokyonight&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=prakash1011&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com?user=prakash1011&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prakash1011&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
@@ -49,13 +51,7 @@ Mission: Build real-world products, write quality code, and keep leveling up as 
 
 ---
 
-## Top Contributions
-![](https://github-contributor-stats.vercel.app/api?username=prakash1011&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prakash1011&style=for-the-badge&color=blue" />
 </p>
-
 
